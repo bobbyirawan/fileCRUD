@@ -1,7 +1,10 @@
-# fileCRUD
-silahkan dipelajari
+# UNTUK DIBACA
+keterangan
 
-cara mendownload
-1. klik latihanCRUD => klik download
+cara mendownload didesktop
+1. klik latihanCRUD =>tam download
+
+cara mendownload dihandphone 
+1. klick view code => latihanCRUD.zip => download
 
 untuk materi belum diupload
